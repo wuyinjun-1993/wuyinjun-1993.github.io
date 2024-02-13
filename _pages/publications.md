@@ -31,6 +31,9 @@ ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://
 
 2022
 ===
+<li><b>Provenance-based Model Maintenance: Implications for Privacy</b> [<a href="http://sites.computer.org/debull/A22mar/p37.pdf">Paper</a>]<br/>
+  <b>Yinjun Wu</b>, Val Tannen and Susan B. Davidson <br/>
+  IEEE Data Eng. Bull. 2022</li>
 
 2021
 ===

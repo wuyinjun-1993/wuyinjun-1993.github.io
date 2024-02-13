@@ -22,6 +22,12 @@ OOPSLA 2024 [<a href="https://github.com/TorchQL/torchql">Code</a>][<a href="htt
 ===
 
 ---
+
+<li><b>Rectifying Group Irregularities in Explanations for Distribution Shift</b> <br/>
+Adam Stein, <b>Yinjun Wu</b>, Eric Wong, Mayur Naik <br/>
+Neurips 2023 (XAIA workshop) [<a href="https://arxiv.org/pdf/2305.16308.pdf">Paper</a>] </li>
+
+
 <li><b>Do Machine Learning Models Learn Statistical Rules Inferred from Data?</b> <br/>
 Aaditya Naik, <b>Yinjun Wu</b>, Mayur Naik, Eric Wong <br/>
 ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://arxiv.org/pdf/2303.01433.pdf">Paper</a>] </li>

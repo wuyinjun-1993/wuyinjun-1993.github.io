@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. Department of Automation, Tsinghua University, 2012-2016
-* Ph.D. Department of Computer and Information Science, University of Pennsylvania, 2016-2021
-* Post-Doc, Department of Computer and Information Science, University of Pennsylvania, 2021-2024
+* B.S. Department of Automation, Tsinghua University, Aug. 2012-Jul. 2016
+* Ph.D. Department of Computer and Information Science, University of Pennsylvania, Aug. 2016-Aug. 2021
+* Post-Doc, Department of Computer and Information Science, University of Pennsylvania, Sep. 2021-Jan. 2024
 
 Work experience
 ======

@@ -54,6 +54,30 @@ ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://
 <li><b>PrIU: A provenance-based approach for incrementally updating regression models</b> <br/>
     <b>Yinjun Wu</b>, Val Tannen, Susan B. Davidson [<a href="https://arxiv.org/pdf/2002.11791.pdf">Paper</a>][<a href="http://wuyinjun-1993.github.io/files/SIGMOD_2020_presentation_v3.pptx">Slides</a>] <br/>
     In Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data, pp. 447-462. 2020. </li>
+  
+2019
+===
+<li><b>ProvCite: Provenance-based Data Citation</b> [<a href="https://dl.acm.org/citation.cfm?id=3329477">Paper</a>][<a href="http://wuyinjun-1993.github.io/files/VLDB_2019_presentation_V8.pptx">Slides</a>] <br/>
+  <b>Yinjun Wu</b>, Abdussalam Alawini, Daniel Deutch, Tova Milo, Susan B. Davidson<br/>
+  In Proceedings of the VLDB Endowment (2019), 12(7)</li>
+
+2018
+===
+<li><b>Data Citation: Giving Credit where Credit is Due</b> [<a href="https://dl.acm.org/citation.cfm?id=3196910">Paper</a>][<a href="http://wuyinjun-1993.github.io/files/SIGMOD_2018_v7.pptx">Slides</a>]<br/>
+  <b>Yinjun Wu</b>, Abdussalam Alawini, Susan B. Davidson, Gianmaria Silvello<br/>
+  In Proceedings of the 2018 International Conference on Management of Data (SIGMOD conference), pp. 99-114. ACM, 2018.</li>
+
+<li><b>Data Citation: A New Provenance Challenge</b> [<a href="http://sites.computer.org/debull/A18mar/p27.pdf">Paper</a>]<br/>
+  Abdussalam Alawini, Susan B. Davidson, Gianmaria Silvello, Val Tannen, <b>Yinjun Wu</b> (authors sorted alphabetically) <br/>
+  IEEE Data Eng. Bull. 41(1): 27-38 (2018)</li>
+
+2017
+===
+<li><b>Automating Data Citation in CiteDB</b> [<a href="http://www.vldb.org/pvldb/vol10/p1881-alawini.pdf">Paper</a>]<br/>
+Abdussalam Alawini, Susan Davidson, Wei Hu, <b>Yinjun Wu</b> (authors sorted alphabetically) <br/>
+Proceedings of the VLDB Endowment 10.12 (2017): 1881-1884.</li>
+
+
 
 <!-- This paper is about the number 1. The number 2 is left for future work.
 

@@ -7,4 +7,4 @@ author_profile: true
 #   - /resume
 ---
 
-[CV](http://wuyinjun-1993.github.io/files/YinjunWu_CV.pdf)
+[<a href="http://wuyinjun-1993.github.io/files/YinjunWu_CV.pdf">CV</a>]

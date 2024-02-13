@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Department of Automation, Tsinghua University, 2012-2016
+* Ph.D. Department of Computer and Information Science, University of Pennsylvania, 2016-2021
+* Post-Doc, Department of Computer and Information Science, University of Pennsylvania, 2021-2024
 
 Work experience
 ======

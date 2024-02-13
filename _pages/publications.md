@@ -20,6 +20,8 @@ OOPSLA 2024 [<a href="https://github.com/TorchQL/torchql">Code</a>][<a href="htt
 
 2023
 ===
+
+---
 <li><b>Do Machine Learning Models Learn Statistical Rules Inferred from Data?</b> <br/>
 Aaditya Naik, <b>Yinjun Wu</b>, Mayur Naik, Eric Wong <br/>
 ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://arxiv.org/pdf/2303.01433.pdf">Paper</a>] </li>
@@ -28,15 +30,21 @@ ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://
   <b>Yinjun Wu</b>, Adam Stein, Jacob Gardner, Mayur Naik <br/>
   AAAI 2023 (oral) [<a href="https://github.com/thuwuyinjun/validation_set_selection">Code</a>][<a href="https://arxiv.org/pdf/2302.04418.pdf">Paper</a>][<a href="http://wuyinjun-1993.github.io/files/AAAI_presentation_10884.pptx">Slides</a>] </li>
 
-
+---
 2022
 ===
+
+---
 <li><b>Provenance-based Model Maintenance: Implications for Privacy</b> [<a href="http://sites.computer.org/debull/A22mar/p37.pdf">Paper</a>]<br/>
   <b>Yinjun Wu</b>, Val Tannen and Susan B. Davidson <br/>
   IEEE Data Eng. Bull. 2022</li>
 
+---
+
 2021
 ===
+
+---
 <li><b>CHEF: A Cheap and Fast Pipeline for Iteratively Cleaning Label Uncertainties</b> <br/>
   <b>Yinjun Wu</b>, James Weimer, Susan B. Davidson [<a href="https://arxiv.org/abs/2107.08588">Technical report</a>][<a href="https://github.com/thuwuyinjun/Chef">Code</a>] <br/>
   Wu, Yinjun, James Weimer, and Susan B. Davidson. "CHEF: a cheap and fast pipeline for iteratively cleaning label uncertainties." in Proceedings of the VLDB Endowment 14, no. 11 (2021): 2410-2418. </li>
@@ -44,10 +52,12 @@ ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://
 <li><b>Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series</b> <br/>
   <b>Yinjun Wu</b>, Jingchao Ni, Wei Cheng, Bo Zong, Dongjin Song, Zhengzhang Chen, Yanchi Liu, Xuchao Zhang, Haifeng Chen, Susan B. Davidson [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16145">Paper</a>][<a href="https://arxiv.org/abs/2103.02164">Full version</a>][<a href="https://github.com/thuwuyinjun/DGM2">Code</a>] <br/>
     In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 1, pp. 651-659. 2021 </li>
-
+---
 
 2020
 ===
+
+---
 <li><b>DeltaGrad: Rapid retraining of machine learning models</b> <br/>
     <b>Yinjun Wu</b>, Edgar Dobriban, Susan B. Davidson [<a href="http://proceedings.mlr.press/v119/wu20b.html">Paper</a>][<a href="http://wuyinjun-1993.github.io/files/deltagrad.pdf">Slides</a>][<a href="https://github.com/thuwuyinjun/DeltaGrad">Code</a>] <br/>
     In International Conference on Machine Learning (ICML), pp. 10355-10366. PMLR, 2020. </li>
@@ -57,15 +67,22 @@ ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://
 <li><b>PrIU: A provenance-based approach for incrementally updating regression models</b> <br/>
     <b>Yinjun Wu</b>, Val Tannen, Susan B. Davidson [<a href="https://arxiv.org/pdf/2002.11791.pdf">Paper</a>][<a href="http://wuyinjun-1993.github.io/files/SIGMOD_2020_presentation_v3.pptx">Slides</a>] <br/>
     In Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data, pp. 447-462. 2020. </li>
-  
+---
+
 2019
 ===
+
+---
 <li><b>ProvCite: Provenance-based Data Citation</b> [<a href="https://dl.acm.org/citation.cfm?id=3329477">Paper</a>][<a href="http://wuyinjun-1993.github.io/files/VLDB_2019_presentation_V8.pptx">Slides</a>] <br/>
   <b>Yinjun Wu</b>, Abdussalam Alawini, Daniel Deutch, Tova Milo, Susan B. Davidson<br/>
   In Proceedings of the VLDB Endowment (2019), 12(7)</li>
 
+---
+
 2018
 ===
+
+---
 <li><b>Data Citation: Giving Credit where Credit is Due</b> [<a href="https://dl.acm.org/citation.cfm?id=3196910">Paper</a>][<a href="http://wuyinjun-1993.github.io/files/SIGMOD_2018_v7.pptx">Slides</a>]<br/>
   <b>Yinjun Wu</b>, Abdussalam Alawini, Susan B. Davidson, Gianmaria Silvello<br/>
   In Proceedings of the 2018 International Conference on Management of Data (SIGMOD conference), pp. 99-114. ACM, 2018.</li>
@@ -74,13 +91,17 @@ ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://
   Abdussalam Alawini, Susan B. Davidson, Gianmaria Silvello, Val Tannen, <b>Yinjun Wu</b> (authors sorted alphabetically) <br/>
   IEEE Data Eng. Bull. 41(1): 27-38 (2018)</li>
 
+---
+
 2017
 ===
+
+---
 <li><b>Automating Data Citation in CiteDB</b> [<a href="http://www.vldb.org/pvldb/vol10/p1881-alawini.pdf">Paper</a>]<br/>
 Abdussalam Alawini, Susan Davidson, Wei Hu, <b>Yinjun Wu</b> (authors sorted alphabetically) <br/>
 Proceedings of the VLDB Endowment 10.12 (2017): 1881-1884.</li>
 
-
+---
 
 <!-- This paper is about the number 1. The number 2 is left for future work.
 

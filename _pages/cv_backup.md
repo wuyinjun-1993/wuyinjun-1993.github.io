@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://wuyinjun-1993.github.io/files/YinjunWu_CV.pdf)
-
-<!-- Education
+Education
 ======
 * B.S. Department of Automation, Tsinghua University, Aug. 2012-Jul. 2016
 * Ph.D. Department of Computer and Information Science, University of Pennsylvania, Aug. 2016-Aug. 2021
@@ -58,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams

@@ -111,6 +111,9 @@ Proceedings of the VLDB Endowment 10.12 (2017): 1881-1884.</li>
 
 ---
 
+
+See my <a href="https://scholar.google.com/citations?user=yXEG_vsAAAAJ&hl=en">Google Scholar page</a> for full paper list
+
 <!-- This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)

@@ -10,8 +10,13 @@ author_profile: true
 
 ---
 title: "TorchQL: A Programming Framework for Integrity Constraints in Machine Learning" [paper](https://arxiv.org/pdf/2308.06686.pdf)[code](https://github.com/TorchQL/torchql)
-author: Aaditya Naik, Adam Stein, Yinjun Wu, Mayur Naik, and Eric Wong
+author: Aaditya Naik, Adam Stein, <b>Yinjun Wu</b>, Mayur Naik, and Eric Wong
 ---
+
+2023
+===
+
+
 <!-- This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)

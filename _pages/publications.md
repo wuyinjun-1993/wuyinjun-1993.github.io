@@ -9,13 +9,16 @@ author_profile: true
 ===
 
 ---
-title: "TorchQL: A Programming Framework for Integrity Constraints in Machine Learning" [paper](https://arxiv.org/pdf/2308.06686.pdf)[code](https://github.com/TorchQL/torchql)
+"TorchQL: A Programming Framework for Integrity Constraints in Machine Learning" 
+[paper](https://arxiv.org/pdf/2308.06686.pdf)[code](https://github.com/TorchQL/torchql)
 author: Aaditya Naik, Adam Stein, <b>Yinjun Wu</b>, Mayur Naik, and Eric Wong
 ---
 
 2023
 ===
-
+<li><b>Do Machine Learning Models Learn Statistical Rules Inferred from Data?</b> <br/>
+Aaditya Naik, <b>Yinjun Wu</b>, Mayur Naik, Eric Wong <br/>
+ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://arxiv.org/pdf/2303.01433.pdf">Paper</a>] </li>
 
 <!-- This paper is about the number 1. The number 2 is left for future work.
 

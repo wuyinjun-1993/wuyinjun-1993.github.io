@@ -13,16 +13,17 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 
 <p style="color: red;">I am actively seeking talented and self-motivated students to join my group. There are several openings for Ph.D candidates and research interns. Feel free to contact me via email!</p>
 
+---
 
 News
 ======
 
 ---
-<li><b> March 2024 </b>: I officially join the School of Computer Science at Peking University as an assistant professor!
-<li><b> December 2023 </b>: One paper is accepted by OOPSLA 2024
+<li><b> March 2024 </b>: I officially join the School of Computer Science at Peking University as an assistant professor!</li>
+<li><b> December 2023 </b>: One paper is accepted by OOPSLA 2024</li>
 <li><b> October 2023 </b>: awarded NSFC Excellent Young Scientists Fund Overseas Program (国家自然科学基金优秀青年科学基金海外项目)!</li>
-<li><b> April 2023 </b>: One paper is accepted by ICML 2023
-<li><b> December 2022 </b>: One paper is accepted by AAAI 2023
+<li><b> April 2023 </b>: One paper is accepted by ICML 2023</li>
+<li><b> December 2022 </b>: One paper is accepted by AAAI 2023</li>
 ---
 
 

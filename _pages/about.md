@@ -18,20 +18,23 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 News
 ======
 
----
+
 <li><b> March 2024 </b>: I officially join the School of Computer Science at Peking University as an assistant professor!</li>
+
 <li><b> December 2023 </b>: One paper is accepted by OOPSLA 2024</li>
+
 <li><b> October 2023 </b>: awarded NSFC Excellent Young Scientists Fund Overseas Program (国家自然科学基金优秀青年科学基金海外项目)!</li>
+
 <li><b> April 2023 </b>: One paper is accepted by ICML 2023</li>
+
 <li><b> December 2022 </b>: One paper is accepted by AAAI 2023</li>
----
+
 
 
 
 Selected Publications
 ======
 
----
 <li>TorchQL: A Programming Framework for Integrity Constraints in Machine Learning <b>(OOPSLA 2024)</b> </li>
 
 <li>Do Machine Learning Models Learn Statistical Rules Inferred from Data? <b>(ICML 2023)</b> </li>
@@ -49,8 +52,6 @@ Selected Publications
 <li>ProvCite: Provenance-based Data Citation <b>(VLDB 2019)</b></li>
 
 <li>Data Citation: Giving Credit where Credit is Due <b>(SIGMOD 2018)</b> </li>
-
----
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->

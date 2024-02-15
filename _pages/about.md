@@ -17,8 +17,10 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 <p style="color: red;">I am actively seeking talented and self-motivated students to join my group. There are several openings for Ph.D candidates and research interns. Feel free to contact me via email!</p>
 
 
-Research interests
+Research overview
 ======
+
+<img src="http://wuyinjun-1993.github.io/files/research_overview.png" alt="Description of the image">
 
 My research interests primarily lie at the intersections of database systems, data science and AI. Specifically, my research work spans three inter-dependent lines. 
 

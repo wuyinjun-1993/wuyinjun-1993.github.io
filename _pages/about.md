@@ -17,9 +17,14 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 
 
 Research interests
-=====
+======
 
 My research interests primarily lie at the intersections of database systems, data science and AI. Specifically, my research work spans three inter-dependent lines. The first line of my research delves into addressing the data management challenges, such as data wrangling and data integration, specifically within the development pipeline of machine learning models. The overarching objective is to enhance model performance through improving data quality, ultimately reducing the cost and human efforts associated with the broader utilizations of AI. The second facet of my research is on understanding and further enhancing the behaviors of machine learning models through data-centric perspective. This usually involves some pivotal questions, such as identifying the significancy of individual training samples on machine learning models and developing solutions to capture and rectify critical model errors across a large dataset. Tackling those research challenges is imperative for achieving trustworthy AI in high-stake areas, e.g., health care and self-driving. The third part of my research is on the application of artificial intelligence to database systems, with a particular focus on harnessing machine learning techniques, such as large language models, to automate the process of debugging the performance of database systems. This aims at alleviating the workload of Database Administrators (DBAs) in real-world database products. 
+
+
+News
+======
+<li><b> October 2023 </b>: awarded NSFC Excellent Young Scientists Fund Overseas Program (国家自然科学基金优秀青年科学基金海外项目)!</li>
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->

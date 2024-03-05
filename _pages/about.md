@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+
+Address: Room 1459, Science Building # 1, Peking University 
+
+
 Hi, welcome to my webpage! I am currently an Assistant Professor at the [School of Computer Science, Peking University](https://cs.pku.edu.cn/). Prior to this, I was working with [Prof. Mayur Naik](https://www.cis.upenn.edu/~mhnaik/) as a Post-Doc at the Department of Computer and Information Science, University of Pennsylvania between August 2021 and January 2024. Before that, I obtained my PhD degree from the Department of Computer and Information Science, University of Pennsylvania in August 2021, under the supervision of [Prof. Susan Davidson](https://www.cis.upenn.edu/~susan/). I also got my Bachelor degree from the Department of Automation, Tsinghua University in 2016. My research interests lie at the intersection of the data science, data management and machine learning (see the [Research Overview](https://wuyinjun-1993.github.io/research/) page for more details). 
 
 

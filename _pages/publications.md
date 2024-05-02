@@ -12,6 +12,12 @@ author_profile: true
 <!-- "TorchQL: A Programming Framework for Integrity Constraints in Machine Learning" 
 [paper](https://arxiv.org/pdf/2308.06686.pdf)[code](https://github.com/TorchQL/torchql)
 author: Aaditya Naik, Adam Stein, <b>Yinjun Wu</b>, Mayur Naik, and Eric Wong -->
+<li><b>DISCRET: Synthesizing Faithful Explanations For Treatment Effect Estimation</b> <br/>
+<b>Yinjun Wu</b>, Mayank Keoliya, Kan Chen, Neelay Velingker, Ziyang Li, Emily J Getzen, Qi Long, Mayur Naik, Ravi B Parikh, Eric Wong <br/>
+ICML 2024 </li>
+<li><b>Towards Compositionality in Concept Learning</b> <br/>
+Adam Stein, Aaditya Naik, <b>Yinjun Wu</b>, Mayur Naik, Eric Wong <br/>
+ICML 2024 </li>
 <li><b>TorchQL: A Programming Framework for Integrity Constraints in Machine Learning</b> <br/>
 Aaditya Naik, Adam Stein, <b>Yinjun Wu</b>, Mayur Naik, and Eric Wong <br/>
 OOPSLA 2024 [<a href="https://github.com/TorchQL/torchql">Code</a>][<a href="https://arxiv.org/pdf/2308.06686.pdf">Paper</a>] </li>

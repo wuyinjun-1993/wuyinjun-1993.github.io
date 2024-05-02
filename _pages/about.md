@@ -20,6 +20,7 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 News
 ======
 
+<li><b> May 2024 </b>: Two papers are accepted by ICML 2024</li>
 
 <li><b> March 2024 </b>: I officially join the School of Computer Science at Peking University as an assistant professor!</li>
 

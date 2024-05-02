@@ -38,6 +38,10 @@ News
 Selected Publications
 ======
 
+<li>DISCRET: Synthesizing Faithful Explanations For Treatment Effect Estimation <b>(ICML 2024)</b> </li>
+
+<li>Towards Compositionality in Concept Learning <b>(ICML 2024)</b> </li>
+
 <li>TorchQL: A Programming Framework for Integrity Constraints in Machine Learning <b>(OOPSLA 2024)</b> </li>
 
 <li>Do Machine Learning Models Learn Statistical Rules Inferred from Data? <b>(ICML 2023)</b> </li>
@@ -52,7 +56,7 @@ Selected Publications
 
 <li>PrIU: A provenance-based approach for incrementally updating regression models <b>(SIGMOD 2020)</b> </li>
 
-<li>ProvCite: Provenance-based Data Citation <b>(VLDB 2019)</b></li>
+<!-- <li>ProvCite: Provenance-based Data Citation <b>(VLDB 2019)</b></li> -->
 
 <li>Data Citation: Giving Credit where Credit is Due <b>(SIGMOD 2018)</b> </li>
 

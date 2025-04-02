@@ -19,6 +19,7 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 
 News
 ======
+<li><b> March 2025 </b> One paper is accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025</li>
 
 <li><b> May 2024 </b>: Two papers are accepted by ICML 2024</li>
 

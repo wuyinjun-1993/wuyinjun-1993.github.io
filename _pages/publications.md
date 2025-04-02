@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+2025
+===
+<li><b>OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution<b></li>
+Shiyue Huang, Ziwei Wang, <b>Yinjun Wu</b>, Yaofeng Tu, Jiankai Wang, Bin Cui
+
+
 2024
 ===
 

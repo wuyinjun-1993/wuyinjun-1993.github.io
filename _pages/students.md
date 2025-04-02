@@ -14,4 +14,4 @@ Yiyan Wang
 
 Master Students
 ======
-Runze Su (co-advised with Prof. Bin Cui)
+Runze Su (co-advised with Prof. [Bin Cui](https://cuibinpku.github.io))

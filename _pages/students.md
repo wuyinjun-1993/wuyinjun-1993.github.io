@@ -7,4 +7,11 @@ author_profile: true
 #   - /resume
 ---
 
-[<a href="http://wuyinjun-1993.github.io/files/YinjunWu_CV.pdf">CV</a>]
+PhD students
+======
+Junlin Li
+Yiyan Wang
+
+Master Students
+======
+Runze Su (co-advised with Prof. Bin Cui)

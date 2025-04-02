@@ -7,6 +7,9 @@ author_profile: true
 
 2025
 ===
+
+---
+
 <li><b>OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution</b><br/>
 Shiyue Huang, Ziwei Wang, <b>Yinjun Wu</b>, Yaofeng Tu, Jiankai Wang, Bin Cui<br/>
 IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025</li>

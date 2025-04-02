@@ -9,8 +9,8 @@ author_profile: true
 
 PhD students
 ======
-Junlin Li
-Yiyan Wang
+<li>Junlin Li</li>
+<li>Yiyan Wang</li>
 
 Master Students
 ======

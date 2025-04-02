@@ -18,4 +18,4 @@ Master Students
 ===
 
 ---
-<li>Runze Su (co-advised with Prof. [Bin Cui](https://cuibinpku.github.io))</li>
+<li>Runze Su (co-advised with Prof. [<a href="https://cuibinpku.github.io">Bin Cui</a>])</li>

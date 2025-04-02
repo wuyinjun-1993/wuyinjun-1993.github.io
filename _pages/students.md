@@ -6,6 +6,8 @@ author_profile: true
 # redirect_from:
 #   - /resume
 ---
+I am fortunate to work with the following brilliant students:
+
 
 PhD students
 ===

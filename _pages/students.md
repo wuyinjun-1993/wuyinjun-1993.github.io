@@ -13,7 +13,7 @@ PhD students
 ===
 
 ---
-<li>Junlin Li</li>
+<li><a href="https://jacklee2111.github.io/">Junlin Li</a></li>
 <li>Yiyan Wang</li>
 
 ---

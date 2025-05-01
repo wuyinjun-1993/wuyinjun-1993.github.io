@@ -14,6 +14,10 @@ author_profile: true
 Shiyue Huang, Ziwei Wang, <b>Yinjun Wu</b>, Yaofeng Tu, Jiankai Wang, Bin Cui<br/>
 IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025</li>
 
+<li><b>POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval</b><br/>
+Yaoyang Liu, Junlin Li, <b>Yinjun Wu</b>, Zhen Chen<br/>
+ICML 2025</li>
+
 ---
 
 2024

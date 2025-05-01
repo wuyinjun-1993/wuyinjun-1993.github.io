@@ -19,6 +19,9 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 
 News
 ======
+
+<li><b> May 2025 </b> One paper is accepted by ICML 2025! Congrats to my student intern Yaoyang Liu and my PhD student Junlin Li</li>
+
 <li><b> March 2025 </b> One paper is accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025</li>
 
 <li><b> May 2024 </b>: Two papers are accepted by ICML 2024</li>
@@ -38,6 +41,8 @@ News
 
 Selected Publications
 ======
+
+<li>POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval <b>(ICML 2025)</b> </li>
 
 <li>DISCRET: Synthesizing Faithful Explanations For Treatment Effect Estimation <b>(ICML 2024)</b> </li>
 

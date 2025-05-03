@@ -76,11 +76,11 @@ ICML 2023 [<a href="https://github.com/DebugML/sqrl">Code</a>][<a href="https://
 ---
 <li><b>CHEF: A Cheap and Fast Pipeline for Iteratively Cleaning Label Uncertainties</b> <br/>
   <b>Yinjun Wu</b>, James Weimer, Susan B. Davidson [<a href="https://arxiv.org/abs/2107.08588">Technical report</a>][<a href="https://github.com/thuwuyinjun/Chef">Code</a>] <br/>
-  Wu, Yinjun, James Weimer, and Susan B. Davidson. "CHEF: a cheap and fast pipeline for iteratively cleaning label uncertainties." in Proceedings of the VLDB Endowment 14, no. 11 (2021): 2410-2418. </li>
+  in Proceedings of the VLDB Endowment 14, no. 11 (2021): 2410-2418. </li>
 
 <li><b>Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series</b> <br/>
   <b>Yinjun Wu</b>, Jingchao Ni, Wei Cheng, Bo Zong, Dongjin Song, Zhengzhang Chen, Yanchi Liu, Xuchao Zhang, Haifeng Chen, Susan B. Davidson [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16145">Paper</a>][<a href="https://arxiv.org/abs/2103.02164">Full version</a>][<a href="https://github.com/thuwuyinjun/DGM2">Code</a>] <br/>
-    In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 1, pp. 651-659. 2021 </li>
+  In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 1, pp. 651-659. 2021 </li>
 ---
 
 2020

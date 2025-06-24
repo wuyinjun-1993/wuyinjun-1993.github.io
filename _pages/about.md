@@ -19,6 +19,7 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 
 News
 ======
+<li><b> June 2025 </b> One paper is accepted by VLDB industry 2025! </li>
 
 <li><b> May 2025 </b> One paper is accepted by ICML 2025! Congrats to my student intern Yaoyang Liu and my PhD student Junlin Li</li>
 

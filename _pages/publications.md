@@ -18,6 +18,10 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025</li>
 Yaoyang Liu, Junlin Li, <b>Yinjun Wu</b>, Zhen Chen<br/>
 ICML 2025</li>
 
+<li><b>SiriusBI: A Comprehensive LLM-powered Solution for Data Analytics in Business Intelligence</b> <br/>
+Jie Jiang, Haining Xie, Siqi Shen, Yu Shen, Zihan Zhang, Meng Lei, Yifeng Zheng, Yang Li, Chunyou Li, Danqing Huang, <b>Yinjun Wu</b>, Wentao Zhang, Xiaofeng Yang, Bin Cui, Peng Chen
+VLDB industry 2025 </li>
+
 ---
 
 2024

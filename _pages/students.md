@@ -15,7 +15,7 @@ PhD students
 ---
 <li><a href="https://jacklee2111.github.io/">Junlin Li</a></li>
 <li>Yiyan Wang</li>
-<li><a href="https://alinowshad.github.io/">Ali Noshad</li>
+<li><a href="https://alinowshad.github.io/">Ali Noshad</a></li>
 
 ---
 

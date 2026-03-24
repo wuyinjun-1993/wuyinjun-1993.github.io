@@ -11,10 +11,8 @@ author_profile: true
 ---
 
 <li><b>Can Large Language Models be a Cardinality Estimator? An Empirical study</b><br/>
-Liangzu Liu, Yiyan Wang, Yinjun Wu, Runze Su, Zhuo Chang, Peizhi Wu, Jianjun Chen, Fuxin Jiang, Rui Shi, Bin Cui, Tieying Zhang<br/>
+Liangzu Liu, Yiyan Wang, <b>Yinjun Wu</b>, Runze Su, Zhuo Chang, Peizhi Wu, Jianjun Chen, Fuxin Jiang, Rui Shi, Bin Cui, Tieying Zhang<br/>
 VLDB Journal 2026</li>
-
-
 
 
 <li><b>OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution</b><br/>

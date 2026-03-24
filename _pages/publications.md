@@ -5,6 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
+2026
+===
+
+---
+
+<li><b>Can Large Language Models be a Cardinality Estimator? An Empirical study</b><br/>
+Liangzu Liu, Yiyan Wang, Yinjun Wu, Runze Su, Zhuo Chang, Peizhi Wu, Jianjun Chen, Fuxin Jiang, Rui Shi, Bin Cui, Tieying Zhang<br/>
+VLDB Journal 2026</li>
+
+
+
+
+<li><b>OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution</b><br/>
+Xinyi Zhang, Liangzu Liu, Xupeng Miao, <b>Yinjun Wu</b>, Zhen Chen, Wei Lu, Xiaoyong Du, Bin Cui<br/>
+ICDE 2026</li>
+
+---
+
+
 2025
 ===
 

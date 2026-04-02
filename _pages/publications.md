@@ -15,7 +15,7 @@ Liangzu Liu, Yiyan Wang, <b>Yinjun Wu</b>, Runze Su, Zhuo Chang, Peizhi Wu, Jian
 VLDB Journal 2026</li>
 
 
-<li><b>OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution</b><br/>
+<li><b>DistVec: Efficient Distributed Machine Learning in Parallel Database Systems</b><br/>
 Xinyi Zhang, Liangzu Liu, Xupeng Miao, <b>Yinjun Wu</b>, Zhen Chen, Wei Lu, Xiaoyong Du, Bin Cui<br/>
 ICDE 2026</li>
 

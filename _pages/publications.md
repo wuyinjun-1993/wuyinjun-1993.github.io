@@ -9,6 +9,10 @@ author_profile: true
 ===
 
 ---
+<li><b>REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs</b><br/>
+Liangzu Liu, Mengzhe Ruan, <b>Yinjun Wu</b>, Yang Liu, Guanjun Wang <br/>
+ACL 2026 (main conference) </li>
+
 
 <li><b>Can Large Language Models be a Cardinality Estimator? An Empirical study</b><br/>
 Liangzu Liu, Yiyan Wang, <b>Yinjun Wu</b>, Runze Su, Zhuo Chang, Peizhi Wu, Jianjun Chen, Fuxin Jiang, Rui Shi, Bin Cui, Tieying Zhang<br/>

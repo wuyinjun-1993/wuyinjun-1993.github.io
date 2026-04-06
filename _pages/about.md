@@ -20,6 +20,8 @@ Hi, welcome to my webpage! I am currently an Assistant Professor at the [School 
 News
 ======
 
+<li><b> Apr. 2026 </b> One paper is accepted by ACL 2026 (main conference)! </li>
+
 <li><b> Mar. 2026 </b> One paper is accepted by VLDBJ 2026! Congrats to my PhD student Yiyan Wang and my master student Runze Su </li>
 
 <li><b> Mar. 2026 </b> One paper is accepted by DAC 2026! </li>

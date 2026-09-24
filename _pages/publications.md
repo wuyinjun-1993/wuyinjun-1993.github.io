@@ -9,14 +9,13 @@ author_profile: true
 ===
 
 ---
+<li><b>REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs</b><br/>
+Liangzu Liu, Mengzhe Ruan, <b>Yinjun Wu</b>, Yang Liu, Guanjun Wang <br/>
+Neurips 2026 </li>
+
 <li><b>MVR-cache: Optimizing Semantic Caching via Multi-Vector Retrieval and Learned Prompt Segmentation</b><br/>
 Ali Noshad, Zishan Zheng, <b>Yinjun Wu</b><br/>
 ICML 2026 </li>
-
-
-<li><b>REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs</b><br/>
-Liangzu Liu, Mengzhe Ruan, <b>Yinjun Wu</b>, Yang Liu, Guanjun Wang <br/>
-ACL 2026 (main conference) </li>
 
 
 <li><b>Can Large Language Models be a Cardinality Estimator? An Empirical study</b><br/>
